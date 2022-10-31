@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a958c76e0ad9e8f43a997b9dbc78f66e, type: 3}
+  m_Name: Player
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 9ec471354fa67f34d8723b07532498ba, type: 3}
+  - {fileID: 8300000, guid: 0738b7e08b1fde24c9be5b54f189cfd9, type: 3}
+  - {fileID: 8300000, guid: 9e00711ca36be9441bfe1ef5f16ceed7, type: 3}
+  - {fileID: 8300000, guid: 5f1f8ca9dce6631439dbbd20b744d163, type: 3}
+  - {fileID: 8300000, guid: 31c11a4170025d143b358e62ff823382, type: 3}
+  - {fileID: 8300000, guid: b5d5e812cc73db8408e20f2baceaed59, type: 3}
+  - {fileID: 8300000, guid: e3960822e6360564e902eea235a3c09b, type: 3}
+  - {fileID: 8300000, guid: 46cdb886e2a01164798900b5bc1809c0, type: 3}
+  volume:
+    minValue: 1
+    maxValue: 1
+  pitch:
+    minValue: 1.052701
+    maxValue: 1.3450029
+  distance:
+    minValue: 1
+    maxValue: 1000
+  mixer: {fileID: -2254456429772739367, guid: d43120a623d459040a834bbabe418731, type: 2}

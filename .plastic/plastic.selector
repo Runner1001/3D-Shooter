@@ -1,0 +1,3 @@
+rep "Mastery Course - Shooter@RunnerVII@cloud"
+  path "/"
+    smartbranch "/main"

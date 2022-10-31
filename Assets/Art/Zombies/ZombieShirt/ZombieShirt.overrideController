@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ZombieShirt
+  m_Controller: {fileID: 9100000, guid: 5cf47d43b94b8c44cb01335b0dd88b48, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: -203655887218126122, guid: 40bd703cf266da24ba4635b777bc44fb, type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 4cacbe45037ff864895fa03e0735e2dc, type: 3}
+  - m_OriginalClip: {fileID: -203655887218126122, guid: 18ee84732ea6e434d87de083aaad6271, type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: eda6a44dcd0047544ae71c70d31e7746, type: 3}
+  - m_OriginalClip: {fileID: -203655887218126122, guid: 287a36062d6cfbb488392022ffc1b6bc, type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 844bb7fb38293084c9a8b6d88f26e6ed, type: 3}
+  - m_OriginalClip: {fileID: -203655887218126122, guid: ccad60edc1b90764d9c9a341f690ecc4, type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: af2c099c5b4dc3441bf6ac1a89978b79, type: 3}
+  - m_OriginalClip: {fileID: -203655887218126122, guid: 5081502f2750b79459812d3636466d75, type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 38644399e41258d4fa6896cb2f6d3006, type: 3}
+  - m_OriginalClip: {fileID: -203655887218126122, guid: 1d2cf05de68b4104184dfba120acc3f9, type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 2283f794bd188ca408de8619569a5575, type: 3}
